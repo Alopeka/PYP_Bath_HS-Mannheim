@@ -2,6 +2,8 @@
 
 In eurem Code bitte darauf achten. Wir wollen es ja von Beginn an richtig machen :)
 
+    Bitte im Repo möglichst KEINE Unterordner. Also die selbe Struktu  wie auch von B. in der Vorlesung gewünscht für eure Repos.
+
     -Python is case-sensitive, which means, for example, Name and name have different meanings
     -The standard is to use English names in programming
     -All variables should start with a lowercase letter, for example,  var = 4
