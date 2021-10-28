@@ -1,7 +1,4 @@
 # PYP_Bath_HS-Mannheim
-# + + #
-# + + #
-# + + #
 
 In eurem Code bitte darauf achten. Wir wollen es ja von Beginn an richtig machen :)
 
