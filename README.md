@@ -10,7 +10,7 @@ In eurem Code bitte darauf achten. Wir wollen es ja von Beginn an richtig machen
     -Functions begin with lowercase
     -Classes begins with a capital letter
     
-    des weiteren:
+    des Weiteren:
     -The first letter of a variable, function, or class must be one of the letters (a-z) or (A-Z). Numbers or special characters such as & and% are not allowed
     -Special characters cannot be used in names
     -There are reserved words, such as and, if, else, break, import, and more, which are not allowed in naming. All reserved words can be found here
