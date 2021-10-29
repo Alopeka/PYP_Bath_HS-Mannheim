@@ -1,1 +1,1 @@
-print('Hallo neue Welt')
+print('Hallo Mannheim!')
